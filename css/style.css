@@ -378,7 +378,7 @@ select.selectmenu {
     display: inline-table;
     border: 1px solid #FFFFFF;
     background: transparent;
-    color: #EA2D2D;
+    color: #ffcd08;
     border: 1px solid #9E9E9E;
     font-style: normal !important;
     background: #F5F5F5;
@@ -587,7 +587,7 @@ section.hero-text h1 {
 ==================================== */
 
 #inner-headline {
-    background: #EA2D2D;
+    background: #ffcd08;
     position: relative;
     margin: 0;
     padding: 0;
@@ -1260,7 +1260,7 @@ footer .widget .flickr_badge img {
 footer {
     padding: 50px 0 0 0;
     color: #969696;
-    border-top: 4px solid #EA2D2D;
+    border-top: 4px solid #ffcd08;
 }
 footer a {
     color: #fff;
@@ -1523,7 +1523,7 @@ article .align-right {
   background: rgba(255, 255, 255, 1); 
 }
 .flex-control-paging li a.flex-active {
-  background: #EA2D2D;
+  background: #ffcd08;
 }
 .navbar-toggle {
   position: relative;
